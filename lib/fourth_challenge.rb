@@ -22,9 +22,7 @@ def fourth_challenge
 
 end
 epic_tragedy[:montague][:hero][:status] = "dead"
-puts epic_tragedy
-
 epic_tragedy[:capulet][:heroine][:status] = "dead"
-puts epic_tragedy
+  puts epic_tragedy
 end
 end
